@@ -1,1 +1,10 @@
-# retention_analysis_project
+# Учебный проект
+## Retention - один из самых важных показателей в компании. Необходимо написать функцию, которая будет считать retention игроков (по дням от даты регистрации игрока).
+#### Анализ проведен на Python, выводы и функция в файле task_retention.ipynb
+_________
+
+### Итоговая таблица retention 
+![image](https://user-images.githubusercontent.com/131590149/235500863-4495802c-2242-46f7-86fb-29ded63ea5a9.png)
+
+### Итоговая тепловая карта для 30-ти дней после даты регистрации игрока
+![image](https://user-images.githubusercontent.com/131590149/235500907-790c1ef7-ceeb-4ff7-b16d-a776b600d190.png)
